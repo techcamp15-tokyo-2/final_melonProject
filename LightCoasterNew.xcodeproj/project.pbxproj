@@ -13,11 +13,32 @@
 		402C677A17E1FF6000DEC7C9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 402C677817E1FF6000DEC7C9 /* InfoPlist.strings */; };
 		402C677C17E1FF6000DEC7C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 402C677B17E1FF6000DEC7C9 /* main.m */; };
 		402C678017E1FF6000DEC7C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 402C677F17E1FF6000DEC7C9 /* AppDelegate.m */; };
-		402C678217E1FF6000DEC7C9 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C678117E1FF6000DEC7C9 /* Default.png */; };
-		402C678417E1FF6000DEC7C9 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C678317E1FF6000DEC7C9 /* Default@2x.png */; };
-		402C678617E1FF6000DEC7C9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C678517E1FF6000DEC7C9 /* Default-568h@2x.png */; };
 		402C678917E1FF6000DEC7C9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 402C678717E1FF6000DEC7C9 /* MainStoryboard.storyboard */; };
 		402C678C17E1FF6000DEC7C9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 402C678B17E1FF6000DEC7C9 /* ViewController.m */; };
+		402C679517E1FFF800DEC7C9 /* ColorPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 402C679317E1FFF800DEC7C9 /* ColorPickerViewController.m */; };
+		402C679617E1FFF800DEC7C9 /* ColorPickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 402C679417E1FFF800DEC7C9 /* ColorPickerViewController.xib */; };
+		402C679A17E2007900DEC7C9 /* Gradation.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C679917E2007900DEC7C9 /* Gradation.png */; };
+		402C679F17E2018300DEC7C9 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C679D17E2018300DEC7C9 /* splash.png */; };
+		402C67A017E2018300DEC7C9 /* splash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C679E17E2018300DEC7C9 /* splash@2x.png */; };
+		402C67A217E2021400DEC7C9 /* color_.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67A117E2021400DEC7C9 /* color_.png */; };
+		402C67A417E2023100DEC7C9 /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67A317E2023100DEC7C9 /* setting.png */; };
+		402C67A617E202B900DEC7C9 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67A517E202B900DEC7C9 /* Settings.png */; };
+		402C67A817E202DC00DEC7C9 /* sensibility.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67A717E202DC00DEC7C9 /* sensibility.png */; };
+		402C67AA17E204F300DEC7C9 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 402C67A917E204F300DEC7C9 /* AudioToolbox.framework */; };
+		402C67B017E2137200DEC7C9 /* MyDrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 402C67AF17E2137200DEC7C9 /* MyDrawView.m */; };
+		402C67B617E22A3600DEC7C9 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 402C67B517E22A3600DEC7C9 /* AVFoundation.framework */; };
+		402C67B817E22A4700DEC7C9 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 402C67B717E22A4700DEC7C9 /* QuartzCore.framework */; };
+		402C67BC17E2508500DEC7C9 /* color_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67BB17E2508500DEC7C9 /* color_1.png */; };
+		402C67C017E250A100DEC7C9 /* color_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67BD17E250A100DEC7C9 /* color_3.png */; };
+		402C67C117E250A100DEC7C9 /* color_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67BE17E250A100DEC7C9 /* color_5.png */; };
+		402C67C217E250A100DEC7C9 /* color_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67BF17E250A100DEC7C9 /* color_2.png */; };
+		402C67C417E250B000DEC7C9 /* color_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67C317E250B000DEC7C9 /* color_4.png */; };
+		402C67C617E251E500DEC7C9 /* GradationLock.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67C517E251E500DEC7C9 /* GradationLock.png */; };
+		402C67C817E2588A00DEC7C9 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67C717E2588A00DEC7C9 /* Default@2x.png */; };
+		402C67CA17E2589F00DEC7C9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67C917E2589F00DEC7C9 /* Default-568h@2x.png */; };
+		402C67CC17E258A900DEC7C9 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67CB17E258A900DEC7C9 /* Default.png */; };
+		402C67CE17E258D200DEC7C9 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67CD17E258D200DEC7C9 /* icon.png */; };
+		402C67D017E258D800DEC7C9 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 402C67CF17E258D800DEC7C9 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +58,32 @@
 		402C678817E1FF6000DEC7C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		402C678A17E1FF6000DEC7C9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		402C678B17E1FF6000DEC7C9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		402C679217E1FFF800DEC7C9 /* ColorPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ColorPickerViewController.h; path = ../ColorPickerViewController.h; sourceTree = "<group>"; };
+		402C679317E1FFF800DEC7C9 /* ColorPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ColorPickerViewController.m; path = ../ColorPickerViewController.m; sourceTree = "<group>"; };
+		402C679417E1FFF800DEC7C9 /* ColorPickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ColorPickerViewController.xib; path = ../ColorPickerViewController.xib; sourceTree = "<group>"; };
+		402C679917E2007900DEC7C9 /* Gradation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gradation.png; sourceTree = "<group>"; };
+		402C679D17E2018300DEC7C9 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		402C679E17E2018300DEC7C9 /* splash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splash@2x.png"; sourceTree = "<group>"; };
+		402C67A117E2021400DEC7C9 /* color_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_.png; sourceTree = "<group>"; };
+		402C67A317E2023100DEC7C9 /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = "<group>"; };
+		402C67A517E202B900DEC7C9 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Settings.png; sourceTree = "<group>"; };
+		402C67A717E202DC00DEC7C9 /* sensibility.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sensibility.png; sourceTree = "<group>"; };
+		402C67A917E204F300DEC7C9 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		402C67AF17E2137200DEC7C9 /* MyDrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDrawView.m; sourceTree = "<group>"; };
+		402C67B117E213A100DEC7C9 /* MyDrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyDrawView.h; sourceTree = "<group>"; };
+		402C67B517E22A3600DEC7C9 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		402C67B717E22A4700DEC7C9 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		402C67BB17E2508500DEC7C9 /* color_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_1.png; sourceTree = "<group>"; };
+		402C67BD17E250A100DEC7C9 /* color_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_3.png; sourceTree = "<group>"; };
+		402C67BE17E250A100DEC7C9 /* color_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_5.png; sourceTree = "<group>"; };
+		402C67BF17E250A100DEC7C9 /* color_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_2.png; sourceTree = "<group>"; };
+		402C67C317E250B000DEC7C9 /* color_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_4.png; sourceTree = "<group>"; };
+		402C67C517E251E500DEC7C9 /* GradationLock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GradationLock.png; sourceTree = "<group>"; };
+		402C67C717E2588A00DEC7C9 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		402C67C917E2589F00DEC7C9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		402C67CB17E258A900DEC7C9 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		402C67CD17E258D200DEC7C9 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../../lightCoaster/icon.png; sourceTree = "<group>"; };
+		402C67CF17E258D800DEC7C9 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +91,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				402C67B817E22A4700DEC7C9 /* QuartzCore.framework in Frameworks */,
+				402C67B617E22A3600DEC7C9 /* AVFoundation.framework in Frameworks */,
+				402C67AA17E204F300DEC7C9 /* AudioToolbox.framework in Frameworks */,
 				402C677017E1FF6000DEC7C9 /* UIKit.framework in Frameworks */,
 				402C677217E1FF6000DEC7C9 /* Foundation.framework in Frameworks */,
 				402C677417E1FF6000DEC7C9 /* CoreGraphics.framework in Frameworks */,
@@ -56,6 +106,10 @@
 		402C676317E1FF6000DEC7C9 = {
 			isa = PBXGroup;
 			children = (
+				402C67CF17E258D800DEC7C9 /* icon.png */,
+				402C67CB17E258A900DEC7C9 /* Default.png */,
+				402C67C917E2589F00DEC7C9 /* Default-568h@2x.png */,
+				402C67C717E2588A00DEC7C9 /* Default@2x.png */,
 				402C677517E1FF6000DEC7C9 /* LightCoasterNew */,
 				402C676E17E1FF6000DEC7C9 /* Frameworks */,
 				402C676D17E1FF6000DEC7C9 /* Products */,
@@ -73,6 +127,9 @@
 		402C676E17E1FF6000DEC7C9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				402C67B717E22A4700DEC7C9 /* QuartzCore.framework */,
+				402C67B517E22A3600DEC7C9 /* AVFoundation.framework */,
+				402C67A917E204F300DEC7C9 /* AudioToolbox.framework */,
 				402C676F17E1FF6000DEC7C9 /* UIKit.framework */,
 				402C677117E1FF6000DEC7C9 /* Foundation.framework */,
 				402C677317E1FF6000DEC7C9 /* CoreGraphics.framework */,
@@ -88,6 +145,9 @@
 				402C678717E1FF6000DEC7C9 /* MainStoryboard.storyboard */,
 				402C678A17E1FF6000DEC7C9 /* ViewController.h */,
 				402C678B17E1FF6000DEC7C9 /* ViewController.m */,
+				402C679717E2000100DEC7C9 /* ColorPicker */,
+				402C67AE17E2130A00DEC7C9 /* MyDrawView */,
+				402C679817E2006200DEC7C9 /* Image */,
 				402C677617E1FF6000DEC7C9 /* Supporting Files */,
 			);
 			path = LightCoasterNew;
@@ -105,6 +165,46 @@
 				402C678517E1FF6000DEC7C9 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		402C679717E2000100DEC7C9 /* ColorPicker */ = {
+			isa = PBXGroup;
+			children = (
+				402C679217E1FFF800DEC7C9 /* ColorPickerViewController.h */,
+				402C679317E1FFF800DEC7C9 /* ColorPickerViewController.m */,
+				402C679417E1FFF800DEC7C9 /* ColorPickerViewController.xib */,
+			);
+			name = ColorPicker;
+			sourceTree = "<group>";
+		};
+		402C679817E2006200DEC7C9 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				402C67CD17E258D200DEC7C9 /* icon.png */,
+				402C67C517E251E500DEC7C9 /* GradationLock.png */,
+				402C67C317E250B000DEC7C9 /* color_4.png */,
+				402C67BD17E250A100DEC7C9 /* color_3.png */,
+				402C67BE17E250A100DEC7C9 /* color_5.png */,
+				402C67BF17E250A100DEC7C9 /* color_2.png */,
+				402C67BB17E2508500DEC7C9 /* color_1.png */,
+				402C67A717E202DC00DEC7C9 /* sensibility.png */,
+				402C67A517E202B900DEC7C9 /* Settings.png */,
+				402C67A317E2023100DEC7C9 /* setting.png */,
+				402C67A117E2021400DEC7C9 /* color_.png */,
+				402C679D17E2018300DEC7C9 /* splash.png */,
+				402C679E17E2018300DEC7C9 /* splash@2x.png */,
+				402C679917E2007900DEC7C9 /* Gradation.png */,
+			);
+			name = Image;
+			sourceTree = "<group>";
+		};
+		402C67AE17E2130A00DEC7C9 /* MyDrawView */ = {
+			isa = PBXGroup;
+			children = (
+				402C67B117E213A100DEC7C9 /* MyDrawView.h */,
+				402C67AF17E2137200DEC7C9 /* MyDrawView.m */,
+			);
+			name = MyDrawView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,10 +259,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				402C677A17E1FF6000DEC7C9 /* InfoPlist.strings in Resources */,
-				402C678217E1FF6000DEC7C9 /* Default.png in Resources */,
-				402C678417E1FF6000DEC7C9 /* Default@2x.png in Resources */,
-				402C678617E1FF6000DEC7C9 /* Default-568h@2x.png in Resources */,
 				402C678917E1FF6000DEC7C9 /* MainStoryboard.storyboard in Resources */,
+				402C679617E1FFF800DEC7C9 /* ColorPickerViewController.xib in Resources */,
+				402C679A17E2007900DEC7C9 /* Gradation.png in Resources */,
+				402C679F17E2018300DEC7C9 /* splash.png in Resources */,
+				402C67A017E2018300DEC7C9 /* splash@2x.png in Resources */,
+				402C67A217E2021400DEC7C9 /* color_.png in Resources */,
+				402C67A417E2023100DEC7C9 /* setting.png in Resources */,
+				402C67A617E202B900DEC7C9 /* Settings.png in Resources */,
+				402C67A817E202DC00DEC7C9 /* sensibility.png in Resources */,
+				402C67BC17E2508500DEC7C9 /* color_1.png in Resources */,
+				402C67C017E250A100DEC7C9 /* color_3.png in Resources */,
+				402C67C117E250A100DEC7C9 /* color_5.png in Resources */,
+				402C67C217E250A100DEC7C9 /* color_2.png in Resources */,
+				402C67C417E250B000DEC7C9 /* color_4.png in Resources */,
+				402C67C617E251E500DEC7C9 /* GradationLock.png in Resources */,
+				402C67C817E2588A00DEC7C9 /* Default@2x.png in Resources */,
+				402C67CA17E2589F00DEC7C9 /* Default-568h@2x.png in Resources */,
+				402C67CC17E258A900DEC7C9 /* Default.png in Resources */,
+				402C67CE17E258D200DEC7C9 /* icon.png in Resources */,
+				402C67D017E258D800DEC7C9 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +292,8 @@
 				402C677C17E1FF6000DEC7C9 /* main.m in Sources */,
 				402C678017E1FF6000DEC7C9 /* AppDelegate.m in Sources */,
 				402C678C17E1FF6000DEC7C9 /* ViewController.m in Sources */,
+				402C679517E1FFF800DEC7C9 /* ColorPickerViewController.m in Sources */,
+				402C67B017E2137200DEC7C9 /* MyDrawView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,10 +378,14 @@
 		402C679017E1FF6000DEC7C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ippei Otsuka (JZW5DJYPD8)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Ippei Otsuka (JZW5DJYPD8)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LightCoasterNew/LightCoasterNew-Prefix.pch";
 				INFOPLIST_FILE = "LightCoasterNew/LightCoasterNew-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "00F140C7-2544-49CF-B9AA-F6D5F8A3CEB3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "00F140C7-2544-49CF-B9AA-F6D5F8A3CEB3";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -271,10 +393,14 @@
 		402C679117E1FF6000DEC7C9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ippei Otsuka (JZW5DJYPD8)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Ippei Otsuka (JZW5DJYPD8)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LightCoasterNew/LightCoasterNew-Prefix.pch";
 				INFOPLIST_FILE = "LightCoasterNew/LightCoasterNew-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "00F140C7-2544-49CF-B9AA-F6D5F8A3CEB3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "00F140C7-2544-49CF-B9AA-F6D5F8A3CEB3";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -298,6 +424,7 @@
 				402C679117E1FF6000DEC7C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
